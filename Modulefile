@@ -1,0 +1,8 @@
+name    'jalli-xorg-x11-fonts'
+version '0.0.1'
+source 'http://github.com/jalli/puppet-module-xorg-x11-fonts'
+author 'jalli'
+license 'GNU General Public License, Version 3.0'
+summary 'Setup basic X11 fonts'
+description 'Sets up basic X11 fonts'
+project_page 'http://github.com/jalli/puppet-module-xorg-x11-fonts'
